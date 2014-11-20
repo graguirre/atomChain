@@ -25,6 +25,7 @@ def main(argv):
 
 	chl = 0 	# chain len (default 0 just tips)
 	gap = 1.405 	# r = 2.77468
+	e = 'Pt'	# default element
 
 	 # manage parameters
 	try:
